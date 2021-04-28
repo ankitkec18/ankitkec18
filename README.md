@@ -9,7 +9,7 @@
 <h4>   
     
 - I'm a 2<sup>nd</sup> Year CSE Student, **Programmer**, **Designer**, and **Developer**.
-- Currently Pursuing **B.Tech From **AKU** Bihar.**
+- Currently Pursuing **B.Tech From **AKU** Patna,Bihar.**
 - I’m Currently **Working on:** <h4><img src="https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=green">  <img src="https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red"> <img src="https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva&logoColor=informational"><h4/>
 <h4/>
 
