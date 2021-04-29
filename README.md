@@ -41,8 +41,8 @@
             <td><b>🐛 Issues</b></td>
             <td><b>🔔 Pull Requests</b></td>
             <td><b>👨‍💻 Language</b></td>
-            <td><b>⏱ Updated</b></td>
-            <td><b>⏰ Created</b></td>
+            <td><b>⏱<br> Updated</b></td>
+            <td><b>⏰ <br>Created</b></td>
         </tr>
      </thead>
     <tbody>
@@ -53,7 +53,9 @@
             <td><img alt="Issues"src="https://img.shields.io/github/issues/ankitkec18/neon-button?style=flat-square&labelColor=343b41"/></td>
             <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/ankitkec18/neon-button?style=flat-square"/></td>
             <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/neon-button?label=CSS&style=flat-square"/></td>
-        </td>
+            <td><img src="https://badges.pufler.dev/updated/ankitkec18/neon-button?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 /></td>
+            <td><img src="https://badges.pufler.dev/created/ankitkec18/neon-button?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 /></td>
+     </td>
         <tr>
             <td><a href="https://github.com/ankitkec18/Guess-the-Number"</a><b>Guess the Number</b></td>
             <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/Guess-the-Number?style=flat-square&labelColor=343b41"/></td>
@@ -61,6 +63,8 @@
             <td><img alt="Issues"src="https://img.shields.io/github/issues/ankitkec18/Guess-the-Number?style=flat-square&labelColor=343b41"/></td>
             <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/ankitkec18/Guess-the-Number?style=flat-square"/></td>
             <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/Guess-the-Number?label=C&style=flat-square"/></td>
+             <td><img src="https://badges.pufler.dev/updated/ankitkec18/Guess-the-Number?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 /></td>
+            <td><img src="https://badges.pufler.dev/created/ankitkec18/Guess-the-Number?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 /></td>
         </tr>
         <tr>
             <td><a href="https://github.com/ankitkec18/weather-app"</a><b>Weather app</b></td>
@@ -69,6 +73,8 @@
             <td><img alt="Issues"src="https://img.shields.io/github/issues/ankitkec18/weather-app?style=flat-square&labelColor=343b41"/></td>
             <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/ankitkec18/weather-app?style=flat-square"/></td>
             <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/weather-app?label=javascript&style=flat-square"/></td>
+             <td><img src="https://badges.pufler.dev/updated/ankitkec18/weather-app?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 /></td>
+            <td><img src="https://badges.pufler.dev/created/ankitkec18/weather-app?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 /></td>
        </tr>
         <tr>
             <td><a href="https://github.com/ankitkec18/Snake-Water-and-Gun"</a><b>Snake Water and Gun</b></td>
@@ -77,6 +83,8 @@
             <td><img alt="Issues"src="https://img.shields.io/github/issues/ankitkec18/Snake-Water-and-Gun?style=flat-square&labelColor=343b41"/></td>
             <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/ankitkec18/Snake-Water-and-Gun?style=flat-square"/></td>
             <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/Snake-Water-and-Gun?label=C&style=flat-square"/></td>
+             <td><img src="https://badges.pufler.dev/updated/ankitkec18/Snake-Water-and-Gun?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 /></td>
+            <td><img src="https://badges.pufler.dev/created/ankitkec18/Snake-Water-and-Gun?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 /></td>
     </tr>
         <tr>
             <td><a href="https://github.com/ankitkec18/clock-ui-design"</a><b>Clock ui design</b></td>
@@ -85,6 +93,8 @@
             <td><img alt="Issues"src="https://img.shields.io/github/issues/ankitkec18/clock-ui-design?style=flat-square&labelColor=343b41"/></td>
             <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/ankitkec18/clock-ui-design?style=flat-square"/></td>
             <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/clock-ui-design?label=HTML&style=flat-square"/></td>
+            <td><img src="https://badges.pufler.dev/updated/ankitkec18/clock-ui-design?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 /></td>
+            <td><img src="https://badges.pufler.dev/created/ankitkec18/clock-ui-design?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 /></td>
        </tr>
     </tbody>        
 </table>
@@ -123,3 +133,5 @@
 <img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 />
 <img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 />
 </p>
+     <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
