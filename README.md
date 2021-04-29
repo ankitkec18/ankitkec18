@@ -41,6 +41,8 @@
             <td><b>🐛 Issues</b></td>
             <td><b>🔔 Pull Requests</b></td>
             <td><b>👨‍💻 Language</b></td>
+            <td><b>⏱ Updated</b></td>
+            <td><b>⏰ Created</b></td>
         </tr>
      </thead>
     <tbody>
