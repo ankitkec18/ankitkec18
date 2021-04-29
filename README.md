@@ -20,11 +20,13 @@
 - 📫 How to reach me **ankitkumarraj596@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ankitkec18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankitkec18" height="30" width="40" /></a>
-<a href="https://fb.com/ankitkumarraj0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ankitkumarraj0" height="30" width="40" /></a>
-<a href="https://instagram.com/_insta_ankit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="insta_ankit" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ankitkec18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="ankitkec18" height="30" width="40" /></a>
+<p align="left"> 
+     
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=skyblue)](https://twitter.com/ankitkec18)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ankitkec18/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=Instagram&logoColor=white&color=red)](https://www.instagram.com/in/_insta_ankit/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=Facebook&logoColor=white&color=blue)](https://www.linkedin.com/in/ankitkumarraj0/)
+
 </p>
 
 
