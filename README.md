@@ -1,4 +1,4 @@
-![Visits Badge](https://badges.pufler.dev/visits/ankitkec18/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/all/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/yearly/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/monthly/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/weekly/ankitkec18?style=for-the-badge&logo=github)
+![Visits Badge](https://badges.pufler.dev/visits/ankitkec18/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/all/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/yearly/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/monthly/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/weekly/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/repos/ankitkec18?style=for-the-badge&logo=github)<img src="https://img.shields.io/github/stars/ankitkec18?style=for-the-badge&logo=github"/>
 
 
 
@@ -136,13 +136,7 @@
      
 <p align="center">
 
-   ![Updated Badge](https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github)
-   ![Created Badge](https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github)
-   ![Years Badge](https://badges.pufler.dev/years/ankitkec18?style=for-the-badge&logo=github)
-   ![Commits Badge](https://badges.pufler.dev/repos/ankitkec18?style=for-the-badge&logo=github) 
-   <tr><img src="https://img.shields.io/github/stars/ankitkec18?style=for-the-badge&logo=github"/></tr><tr><img src="https://img.shields.io/github/forks/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/><img src="https://img.shields.io/github/issues/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/></tr>
-   <tr><img src="https://img.shields.io/github/issues-pr/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/></tr>
-   <tr><img src="https://img.shields.io/github/languages/count/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/></tr>
+ <img src="https://img.shields.io/github/forks/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/>![Updated Badge](https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github)![Created Badge](https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github)![Years Badge](https://badges.pufler.dev/years/ankitkec18?style=for-the-badge&logo=github)<img src="https://img.shields.io/github/issues/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/><img src="https://img.shields.io/github/issues-pr/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/><img src="https://img.shields.io/github/languages/count/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/>
    
    
    
