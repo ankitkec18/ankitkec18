@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=ankitkec18)![Commits Badge](https://badges.pufler.dev/commits/all/ankitkec18)![Commits Badge](https://badges.pufler.dev/commits/yearly/ankitkec18)![Commits Badge](https://badges.pufler.dev/commits/monthly/ankitkec18)![Commits Badge](https://badges.pufler.dev/commits/weekly/ankitkec18)![Commits Badge](https://badges.pufler.dev/repos/ankitkec18)
+![Visits Badge](https://badges.pufler.dev/visits/ankitkec18/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/all/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/yearly/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/monthly/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/weekly/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/repos/ankitkec18?style=for-the-badge&logo=github)
+
 
 
 <p align="center">
@@ -134,13 +135,19 @@
 </p>
      <br/>
 <p align="center">
-<img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 />
-<img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 />
- </p>
+
+   [![Updated Badge](https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github)]
+   [![Created Badge](https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github)]
+   [![Years Badge](https://badges.pufler.dev/years/ankitkec18?style=for-the-badge&logo=github)]
+   [![Count Badge](https://badges.pufler.dev/github/languages/count/ankitkec18/Python-top-questions?style=for-the-badge&logo=github)]
+
+</p>
      
 
   
    <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+   
+  
 
 
 
