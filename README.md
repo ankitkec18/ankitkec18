@@ -1,4 +1,4 @@
-![Visits Badge](https://badges.pufler.dev/visits/ankitkec18/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/all/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/yearly/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/monthly/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/weekly/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/repos/ankitkec18?style=for-the-badge&logo=github)
+![Visits Badge](https://badges.pufler.dev/visits/ankitkec18/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/all/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/yearly/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/monthly/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/weekly/ankitkec18?style=for-the-badge&logo=github)
 
 
 
@@ -53,51 +53,51 @@
     <tbody>
         <tr>
             <td><a href="https://github.com/ankitkec18/neon-button"</a><b>Neon Button</b></td>
-            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/neon-button?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Forks"src="https://img.shields.io/github/forks/ankitkec18/neon-button?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Issues"src="https://img.shields.io/github/issues/ankitkec18/neon-button?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/ankitkec18/neon-button?style=flat-square"/></td>
-            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/neon-button?label=CSS&style=flat-square"/></td>
+            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/neon-button?style=for-the-badge&logo=github"/></td>
+            <td><img alt="Forks"src="https://img.shields.io/github/forks/ankitkec18/neon-button?style=for-the-badge&logo=github"/></td>
+            <td><img alt="Issues"src="https://img.shields.io/github/issues/ankitkec18/neon-button?style=for-the-badge&logo=github"/></td>
+            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/ankitkec18/neon-button?style=for-the-badge&logo=github"/></td>
+            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/neon-button?style=for-the-badge&logo=github"/></td>
             <td><img src="https://badges.pufler.dev/updated/ankitkec18/neon-button?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 /></td>
             <td><img src="https://badges.pufler.dev/created/ankitkec18/neon-button?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 /></td>
      </td>
         <tr>
             <td><a href="https://github.com/ankitkec18/Guess-the-Number"</a><b>Guess the Number</b></td>
-            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/Guess-the-Number?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Forks"src="https://img.shields.io/github/forks/ankitkec18/Guess-the-Number?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Issues"src="https://img.shields.io/github/issues/ankitkec18/Guess-the-Number?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/ankitkec18/Guess-the-Number?style=flat-square"/></td>
-            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/Guess-the-Number?label=C&style=flat-square"/></td>
+            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/Guess-the-Number?style=for-the-badge&logo=github"/></td>
+            <td><img alt="Forks"src="https://img.shields.io/github/forks/ankitkec18/Guess-the-Number?style=for-the-badge&logo=github"/></td>
+            <td><img alt="Issues"src="https://img.shields.io/github/issues/ankitkec18/Guess-the-Number?style=for-the-badge&logo=github"/></td>
+            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/ankitkec18/Guess-the-Number?style=for-the-badge&logo=github"/></td>
+            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/Guess-the-Number?style=for-the-badge&logo=github"/></td>
              <td><img src="https://badges.pufler.dev/updated/ankitkec18/Guess-the-Number?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 /></td>
             <td><img src="https://badges.pufler.dev/created/ankitkec18/Guess-the-Number?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 /></td>
         </tr>
         <tr>
             <td><a href="https://github.com/ankitkec18/weather-app"</a><b>Weather app</b></td>
-            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/weather-app?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Forks"src="https://img.shields.io/github/forks/ankitkec18/weather-app?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Issues"src="https://img.shields.io/github/issues/ankitkec18/weather-app?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/ankitkec18/weather-app?style=flat-square"/></td>
-            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/weather-app?label=javascript&style=flat-square"/></td>
+            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/weather-app?style=for-the-badge&logo=github"/></td>
+            <td><img alt="Forks"src="https://img.shields.io/github/forks/ankitkec18/weather-app?style=for-the-badge&logo=github"/></td>
+            <td><img alt="Issues"src="https://img.shields.io/github/issues/ankitkec18/weather-app?style=for-the-badge&logo=github"/></td>
+            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/ankitkec18/weather-app?style=for-the-badge&logo=github"/></td>
+            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/weather-app?style=for-the-badge&logo=github"/></td>
              <td><img src="https://badges.pufler.dev/updated/ankitkec18/weather-app?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 /></td>
             <td><img src="https://badges.pufler.dev/created/ankitkec18/weather-app?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 /></td>
        </tr>
         <tr>
             <td><a href="https://github.com/ankitkec18/Snake-Water-and-Gun"</a><b>Snake Water and Gun</b></td>
-            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/Snake-Water-and-Gun?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Forks"src="https://img.shields.io/github/forks/ankitkec18/Snake-Water-and-Gun?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Issues"src="https://img.shields.io/github/issues/ankitkec18/Snake-Water-and-Gun?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/ankitkec18/Snake-Water-and-Gun?style=flat-square"/></td>
-            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/Snake-Water-and-Gun?label=C&style=flat-square"/></td>
+            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/Snake-Water-and-Gun?style=for-the-badge&logo=github"/></td>
+            <td><img alt="Forks"src="https://img.shields.io/github/forks/ankitkec18/Snake-Water-and-Gun?style=for-the-badge&logo=github"/></td>
+            <td><img alt="Issues"src="https://img.shields.io/github/issues/ankitkec18/Snake-Water-and-Gun?style=for-the-badge&logo=github"/></td>
+            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/ankitkec18/Snake-Water-and-Gun?style=for-the-badge&logo=github"/></td>
+            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/Snake-Water-and-Gun?label=C&style=for-the-badge&logo=github"/></td>
              <td><img src="https://badges.pufler.dev/updated/ankitkec18/Snake-Water-and-Gun?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 /></td>
             <td><img src="https://badges.pufler.dev/created/ankitkec18/Snake-Water-and-Gun?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 /></td>
     </tr>
         <tr>
             <td><a href="https://github.com/ankitkec18/clock-ui-design"</a><b>Clock ui design</b></td>
-            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/clock-ui-design?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Forks"src="https://img.shields.io/github/forks/ankitkec18/clock-ui-design?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Issues"src="https://img.shields.io/github/issues/ankitkec18/clock-ui-design?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/ankitkec18/clock-ui-design?style=flat-square"/></td>
-            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/clock-ui-design?label=HTML&style=flat-square"/></td>
+            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/></td>
+            <td><img alt="Forks"src="https://img.shields.io/github/forks/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/></td>
+            <td><img alt="Issues"src="https://img.shields.io/github/issues/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/></td>
+            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/></td>
+            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/clock-ui-design?label=HTML&style=for-the-badge&logo=github"/></td>
             <td><img src="https://badges.pufler.dev/updated/ankitkec18/clock-ui-design?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 /></td>
             <td><img src="https://badges.pufler.dev/created/ankitkec18/clock-ui-design?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 /></td>
        </tr>
@@ -133,13 +133,19 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ankitkec18&theme=gruvbox"/>
   </a>
 </p>
-     <br/>
+     
 <p align="center">
 
-   [![Updated Badge](https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github)]
-   [![Created Badge](https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github)]
-   [![Years Badge](https://badges.pufler.dev/years/ankitkec18?style=for-the-badge&logo=github)]
-   [![Count Badge](https://badges.pufler.dev/github/languages/count/ankitkec18/Python-top-questions?style=for-the-badge&logo=github)]
+   ![Updated Badge](https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github)
+   ![Created Badge](https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github)
+   ![Years Badge](https://badges.pufler.dev/years/ankitkec18?style=for-the-badge&logo=github)
+   ![Commits Badge](https://badges.pufler.dev/repos/ankitkec18?style=for-the-badge&logo=github) 
+   <tr><img src="https://img.shields.io/github/stars/ankitkec18?style=for-the-badge&logo=github"/></tr><tr><img src="https://img.shields.io/github/forks/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/><img src="https://img.shields.io/github/issues/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/></tr>
+   <tr><img src="https://img.shields.io/github/issues-pr/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/></tr>
+   <tr><img src="https://img.shields.io/github/languages/count/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/></tr>
+   
+   
+   
 
 </p>
      
@@ -147,6 +153,8 @@
   
    <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
    
+   
+  
   
 
 
