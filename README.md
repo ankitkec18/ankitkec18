@@ -21,12 +21,12 @@
  📫 How to reach me **ankitkumarraj596@gmail.com**
 
 <h2 align="center"> 💻 Connect with Me 💻:</h2>
-<p align="left"> 
+<p align="right"> 
      
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=skyblue)](https://www.twitter.com/ankitkec18/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ankitkec18/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=Instagram&logoColor=white&color=red)](https://www.instagram.com/in/_insta_ankit/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=for-the-badge&logo=Facebook&logoColor=white&color=blue)](https://www.linkedin.com/in/ankitkumarraj0/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=Instagram&logoColor=white&color=red)](https://www.instagram.com/_insta_ankit/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=for-the-badge&logo=Facebook&logoColor=white&color=blue)](https://www.facebook.com/ankitkumarraj0/)
 
 </p>
 
@@ -180,6 +180,4 @@
    
   
   
-
-
 
