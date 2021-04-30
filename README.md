@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ankitkec18)![Commits Badge](https://badges.pufler.dev/commits/yearly/ankitkec18)![Commits Badge](https://badges.pufler.dev/commits/monthly/ankitkec18)![Commits Badge](https://badges.pufler.dev/commits/weekly/ankitkec18)
+![](https://komarev.com/ghpvc/?username=ankitkec18)![Commits Badge](https://badges.pufler.dev/commits/all/ankitkec18)![Commits Badge](https://badges.pufler.dev/commits/yearly/ankitkec18)![Commits Badge](https://badges.pufler.dev/commits/monthly/ankitkec18)![Commits Badge](https://badges.pufler.dev/commits/weekly/ankitkec18)![Commits Badge](https://badges.pufler.dev/repos/ankitkec18)
 
 
 <p align="center">
@@ -136,8 +136,11 @@
 <p align="center">
 <img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 />
 <img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github&logoColor=yellow" alt=ankitkec18 />
-</p>
-     <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+ </p>
+     
+
+  
+   <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 
 
