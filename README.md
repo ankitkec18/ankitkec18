@@ -16,9 +16,9 @@
 - I’m Currently **Working on:** <h4><img src="https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=green">  <img src="https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red"> <img src="https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva&logoColor=informational"><h4/>
 <h4/>
 
-- 🌱 I’m currently learning **Flask Framework**
-- 👨‍💻 All of my projects are available at [ankitkec18/github.io](ankitkec18/github.io)
-- 📫 How to reach me **ankitkumarraj596@gmail.com**
+ 🌱 I’m currently learning **Flask Framework** <br>
+ 👨‍💻 All of my projects are available at [ankitkec18/github.io](ankitkec18/github.io)<br>
+ 📫 How to reach me **ankitkumarraj596@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
