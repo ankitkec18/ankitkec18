@@ -1,7 +1,7 @@
 <span>
 <pre>
 
-<img src="https://badges.pufler.dev/visits/ankitkec18/ankitkec18?style=for-the-badge&logo=github"/>                                                 <img src="https://img.shields.io/badge/Stay-Safe-red?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTEwIDUxMCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTAgNTEwIiB3aWR0aD0iNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjxnPjxwYXRoIGQ9Im0xNzQuNjEgMzAwYy0yMC41OCAwLTQwLjU2IDYuOTUtNTYuNjkgMTkuNzJsLTExMC4wOSA4NS43OTd2MTA0LjQ4M2g1My41MjlsNzYuNDcxLTY1aDEyNi44MnYtMTQ1eiIgZmlsbD0iI2ZmZGRjZSIvPjwvZz48cGF0aCBkPSJtNTAyLjE3IDI4NC43MmMwIDguOTUtMy42IDE3Ljg5LTEwLjc4IDI0LjQ2bC0xNDguNTYgMTM1LjgyaC03OC4xOHYtODVoNjguMThsMTE0LjM0LTEwMC4yMWMxMi44Mi0xMS4yMyAzMi4wNi0xMC45MiA0NC41LjczIDcgNi41NSAxMC41IDE1LjM4IDEwLjUgMjQuMnoiIGZpbGw9IiNmZmNjYmQiLz48cGF0aCBkPSJtMzMyLjgzIDM0OS42M3YxMC4zN2gtNjguMTh2LTYwaDE4LjU1YzI3LjQxIDAgNDkuNjMgMjIuMjIgNDkuNjMgNDkuNjN6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTM5OS44IDc3LjN2OC4wMWMwIDIwLjY1LTguMDQgNDAuMDctMjIuNjQgNTQuNjdsLTExMi41MSAxMTIuNTF2LTIyNi42NmwzLjE4LTMuMTljMTQuNi0xNC42IDM0LjAyLTIyLjY0IDU0LjY3LTIyLjY0IDQyLjYyIDAgNzcuMyAzNC42OCA3Ny4zIDc3LjN6IiBmaWxsPSIjZDAwMDUwIi8+PHBhdGggZD0ibTI2NC42NSAyNS44M3YyMjYuNjZsLTExMi41MS0xMTIuNTFjLTE0LjYtMTQuNi0yMi42NC0zNC4wMi0yMi42NC01NC42N3YtOC4wMWMwLTQyLjYyIDM0LjY4LTc3LjMgNzcuMy03Ny4zIDIwLjY1IDAgNDAuMDYgOC4wNCA1NC42NiAyMi42NHoiIGZpbGw9IiNmZjRhNGEiLz48cGF0aCBkPSJtMjEyLjgzIDM2MC4xMnYzMGg1MS44MnYtMzB6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTI2NC42NSAzNjAuMTJ2MzBoMzYuMTRsMzIuMDQtMzB6IiBmaWxsPSIjZmZiZGE5Ii8+PC9nPjwvc3ZnPg=="/> <img src="https://img.shields.io/github/stars/ankitkec18?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/commits/all/ankitkec18?style=for-the-badge&logo=github"/>
+<img src="https://badges.pufler.dev/visits/ankitkec18/ankitkec18?style=for-the-badge&logo=github"/>                                                 <img src="https://img.shields.io/badge/Stay-Safe-red?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTEwIDUxMCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTAgNTEwIiB3aWR0aD0iNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjxnPjxwYXRoIGQ9Im0xNzQuNjEgMzAwYy0yMC41OCAwLTQwLjU2IDYuOTUtNTYuNjkgMTkuNzJsLTExMC4wOSA4NS43OTd2MTA0LjQ4M2g1My41MjlsNzYuNDcxLTY1aDEyNi44MnYtMTQ1eiIgZmlsbD0iI2ZmZGRjZSIvPjwvZz48cGF0aCBkPSJtNTAyLjE3IDI4NC43MmMwIDguOTUtMy42IDE3Ljg5LTEwLjc4IDI0LjQ2bC0xNDguNTYgMTM1LjgyaC03OC4xOHYtODVoNjguMThsMTE0LjM0LTEwMC4yMWMxMi44Mi0xMS4yMyAzMi4wNi0xMC45MiA0NC41LjczIDcgNi41NSAxMC41IDE1LjM4IDEwLjUgMjQuMnoiIGZpbGw9IiNmZmNjYmQiLz48cGF0aCBkPSJtMzMyLjgzIDM0OS42M3YxMC4zN2gtNjguMTh2LTYwaDE4LjU1YzI3LjQxIDAgNDkuNjMgMjIuMjIgNDkuNjMgNDkuNjN6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTM5OS44IDc3LjN2OC4wMWMwIDIwLjY1LTguMDQgNDAuMDctMjIuNjQgNTQuNjdsLTExMi41MSAxMTIuNTF2LTIyNi42NmwzLjE4LTMuMTljMTQuNi0xNC42IDM0LjAyLTIyLjY0IDU0LjY3LTIyLjY0IDQyLjYyIDAgNzcuMyAzNC42OCA3Ny4zIDc3LjN6IiBmaWxsPSIjZDAwMDUwIi8+PHBhdGggZD0ibTI2NC42NSAyNS44M3YyMjYuNjZsLTExMi41MS0xMTIuNTFjLTE0LjYtMTQuNi0yMi42NC0zNC4wMi0yMi42NC01NC42N3YtOC4wMWMwLTQyLjYyIDM0LjY4LTc3LjMgNzcuMy03Ny4zIDIwLjY1IDAgNDAuMDYgOC4wNCA1NC42NiAyMi42NHoiIGZpbGw9IiNmZjRhNGEiLz48cGF0aCBkPSJtMjEyLjgzIDM2MC4xMnYzMGg1MS44MnYtMzB6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTI2NC42NSAzNjAuMTJ2MzBoMzYuMTRsMzIuMDQtMzB6IiBmaWxsPSIjZmZiZGE5Ii8+PC9nPjwvc3ZnPg=="/> <img src="https://img.shields.io/github/stars/ankitkec18?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/commits/all/ankitkec18?style=for-the-badge&logo=github&color=green"/>
 
 </pre>
 </span>
@@ -25,10 +25,10 @@
 
 <h2 align="center"> 💻 Connect with Me 💻:</h2>
 <p align="right"> 
-     
+ 
+ [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=Instagram&logoColor=white&color=red)](https://www.instagram.com/_insta_ankit/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=skyblue)](https://www.twitter.com/ankitkec18/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ankitkec18/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=Instagram&logoColor=white&color=red)](https://www.instagram.com/_insta_ankit/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=for-the-badge&logo=Facebook&logoColor=white&color=blue)](https://www.facebook.com/ankitkumarraj0/)
 
 </p>
@@ -56,9 +56,9 @@
         <tr border: none;>
             <td><b>🖥️ Projects</b></td>
             <td><b>🌟 Stars</b></td>
-            <td><b>🍴 <br>Forks</b></td>
-            <td><b>🐛<br> Issues</b></td>
-            <td><b>🔔<br> Pull Requests</b></td>
+            <td><b>🍴 Repo <br>Size</b></td>
+            <td><b>🐛<br> Lines of Code</b></td>
+            <td><b>🔔Total<br> Language</b></td>
             <td><b>👨‍💻 Language</b></td>
             <td><b>⏱<br> Updated</b></td>
             <td><b>⏰ <br>Created</b></td>
@@ -67,63 +67,63 @@
     <tbody>
         <tr>
             <td><a href="https://github.com/ankitkec18/Nonstop_coding"</a><b>Nonstop Coding </b></td>
-            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/Nonstop_coding?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Forks"src="https://img.shields.io/github/forks/ankitkec18/Nonstop_coding?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Issues"src="https://img.shields.io/github/issues/ankitkec18/Nonstop_coding?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/ankitkec18/Nonstop_coding?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/Nonstop_coding?style=for-the-badge&logo=github"/></td>
-            <td><img src="https://badges.pufler.dev/updated/ankitkec18/Nonstop_coding?style=for-the-badge&logo=github" alt=ankitkec18 /></td>
-            <td><img src="https://badges.pufler.dev/created/ankitkec18/Nonstop_coding?style=for-the-badge&logo=github" alt=ankitkec18 /></td>
+            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/Nonstop_coding?style=for-the-badge&logo="/></td>
+            <td><img src="https://img.shields.io/github/repo-size/ankitkec18/Nonstop_coding?style=for-the-badge&logo=&color=red&label=Repo%20Size%20"/></td>
+            <td><img src="https://img.shields.io/tokei/lines/github/ankitkec18/Nonstop_coding?style=for-the-badge&logo=&color=red&label=Lines%20of%20Code"/></td>
+            <td><img alt="Pull Requests"src="https://img.shields.io/github/languages/count/ankitkec18/Nonstop_coding?style=for-the-badge&logo="/></td>
+            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/Nonstop_coding?style=for-the-badge&logo="/></td>
+            <td><img src="https://badges.pufler.dev/updated/ankitkec18/Nonstop_coding?style=for-the-badge&logo=" alt=ankitkec18 /></td>
+            <td><img src="https://badges.pufler.dev/created/ankitkec18/Nonstop_coding?style=for-the-badge&logo=" alt=ankitkec18 /></td>
      </td>
         <tr>
             <td><a href="https://github.com/ankitkec18/Guess-the-Number"</a><b>Guess the Number</b></td>
-            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/Guess-the-Number?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Forks"src="https://img.shields.io/github/forks/ankitkec18/Guess-the-Number?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Issues"src="https://img.shields.io/github/issues/ankitkec18/Guess-the-Number?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/ankitkec18/Guess-the-Number?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/Guess-the-Number?style=for-the-badge&logo=github"/></td>
-             <td><img src="https://badges.pufler.dev/updated/ankitkec18/Guess-the-Number?style=for-the-badge&logo=github" alt=ankitkec18 /></td>
-            <td><img src="https://badges.pufler.dev/created/ankitkec18/Guess-the-Number?style=for-the-badge&logo=github" alt=ankitkec18 /></td>
+            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/Guess-the-Number?style=for-the-badge&logo="/></td>
+            <td><img src="https://img.shields.io/github/repo-size/ankitkec18/Guess-the-Number?style=for-the-badge&logo=&color=red&label=Repo%20Size%20"/></td>
+            <td><img src="https://img.shields.io/tokei/lines/github/ankitkec18/Guess-the-Number?style=for-the-badge&logo=&color=red&label=Lines%20of%20Code"/></td>
+            <td><img alt="Pull Requests"src="https://img.shields.io/github/languages/count/ankitkec18/Guess-the-Number?style=for-the-badge&logo="/></td>
+            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/Guess-the-Number?style=for-the-badge&logo="/></td>
+             <td><img src="https://badges.pufler.dev/updated/ankitkec18/Guess-the-Number?style=for-the-badge&logo=" alt=ankitkec18 /></td>
+            <td><img src="https://badges.pufler.dev/created/ankitkec18/Guess-the-Number?style=for-the-badge&logo=" alt=ankitkec18 /></td>
         </tr>
         <tr>
             <td><a href="https://github.com/ankitkec18/weather-app"</a><b>Weather app</b></td>
-            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/weather-app?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Forks"src="https://img.shields.io/github/forks/ankitkec18/weather-app?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Issues"src="https://img.shields.io/github/issues/ankitkec18/weather-app?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/ankitkec18/weather-app?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/weather-app?style=for-the-badge&logo=github"/></td>
-             <td><img src="https://badges.pufler.dev/updated/ankitkec18/weather-app?style=for-the-badge&logo=github" alt=ankitkec18 /></td>
-            <td><img src="https://badges.pufler.dev/created/ankitkec18/weather-app?style=for-the-badge&logo=github" alt=ankitkec18 /></td>
+            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/weather-app?style=for-the-badge&logo=githu"/></td>
+            <td><img src="https://img.shields.io/github/repo-size/ankitkec18/weather-app?style=for-the-badge&logo=githu&color=red&label=Repo%20Size%20"/></td>
+            <td><img src="https://img.shields.io/tokei/lines/github/ankitkec18/weather-app?style=for-the-badge&logo=githu&color=red&label=Lines%20of%20Code"/></td>
+            <td><img alt="Pull Requests"src="https://img.shields.io/github/languages/count/ankitkec18/weather-app?style=for-the-badge&logo=githu"/></td>
+            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/weather-app?style=for-the-badge&logo=githu"/></td>
+             <td><img src="https://badges.pufler.dev/updated/ankitkec18/weather-app?style=for-the-badge&logo=githu" alt=ankitkec18 /></td>
+            <td><img src="https://badges.pufler.dev/created/ankitkec18/weather-app?style=for-the-badge&logo=githu" alt=ankitkec18 /></td>
        </tr>
         <tr>
             <td><a href="https://github.com/ankitkec18/Snake-Water-and-Gun"</a><b>Snake Water and Gun</b></td>
-            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/Snake-Water-and-Gun?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Forks"src="https://img.shields.io/github/forks/ankitkec18/Snake-Water-and-Gun?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Issues"src="https://img.shields.io/github/issues/ankitkec18/Snake-Water-and-Gun?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/ankitkec18/Snake-Water-and-Gun?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/Snake-Water-and-Gun?label=C&style=for-the-badge&logo=github"/></td>
-             <td><img src="https://badges.pufler.dev/updated/ankitkec18/Snake-Water-and-Gun?style=for-the-badge&logo=github" alt=ankitkec18 /></td>
-            <td><img src="https://badges.pufler.dev/created/ankitkec18/Snake-Water-and-Gun?style=for-the-badge&logo=github" alt=ankitkec18 /></td>
+            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/Snake-Water-and-Gun?style=for-the-badge&logo=githu"/></td>
+            <td><img src="https://img.shields.io/github/repo-size/ankitkec18/Snake-Water-and-Gun?style=for-the-badge&logo=githu&color=red&label=Repo%20Size%20"/></td>
+            <td><img src="https://img.shields.io/tokei/lines/github/ankitkec18/Snake-Water-and-Gun?style=for-the-badge&logo=githu&color=red&label=Lines%20of%20Code"/></td>
+            <td><img alt="Pull Requests"src="https://img.shields.io/github/languages/count/ankitkec18/Snake-Water-and-Gun?style=for-the-badge&logo=githu"/></td>
+            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/Snake-Water-and-Gun?label=C&style=for-the-badge&logo=githu"/></td>
+             <td><img src="https://badges.pufler.dev/updated/ankitkec18/Snake-Water-and-Gun?style=for-the-badge&logo=githu" alt=ankitkec18 /></td>
+            <td><img src="https://badges.pufler.dev/created/ankitkec18/Snake-Water-and-Gun?style=for-the-badge&logo=githu" alt=ankitkec18 /></td>
     </tr>
         <tr>
             <td><a href="https://github.com/ankitkec18/clock-ui-design"</a><b>Clock ui design</b></td>
-            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Forks"src="https://img.shields.io/github/forks/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Issues"src="https://img.shields.io/github/issues/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/clock-ui-design?label=HTML&style=for-the-badge&logo=github"/></td>
-            <td><img src="https://badges.pufler.dev/updated/ankitkec18/clock-ui-design?style=for-the-badge&logo=github" alt=ankitkec18 /></td>
-            <td><img src="https://badges.pufler.dev/created/ankitkec18/clock-ui-design?style=for-the-badge&logo=github&" alt=ankitkec18 /></td>
+            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/clock-ui-design?style=for-the-badge&logo=githu"/></td>
+            <td><img src="https://img.shields.io/github/repo-size/ankitkec18/clock-ui-design?style=for-the-badge&logo=githu&color=red&label=Repo%20Size%20"/></td>
+            <td><img src="https://img.shields.io/tokei/lines/github/ankitkec18/clock-ui-design?style=for-the-badge&logo=githu&color=red&label=Lines%20of%20Code"/></td>
+            <td><img alt="Pull Requests"src="https://img.shields.io/github/languages/count/ankitkec18/clock-ui-design?style=for-the-badge&logo=githu"/></td>
+            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/clock-ui-design?label=HTML&style=for-the-badge&logo=githu"/></td>
+            <td><img src="https://badges.pufler.dev/updated/ankitkec18/clock-ui-design?style=for-the-badge&logo=githu" alt=ankitkec18 /></td>
+            <td><img src="https://badges.pufler.dev/created/ankitkec18/clock-ui-design?style=for-the-badge&logo=githu&" alt=ankitkec18 /></td>
        </tr>
          <tr>
             <td><a href="https://github.com/ankitkec18/neon-button"</a><b>Neon Button</b></td>
-            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/neon-button?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Forks"src="https://img.shields.io/github/forks/ankitkec18/neon-button?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Issues"src="https://img.shields.io/github/issues/ankitkec18/neon-button?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/ankitkec18/neon-button?style=for-the-badge&logo=github"/></td>
-            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/neon-button?label=HTML&style=for-the-badge&logo=github"/></td>
-            <td><img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github" alt=ankitkec18 /></td>
-            <td><img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github" alt=ankitkec18 /></td>
+            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/neon-button?style=for-the-badge&logo=githu"/></td>
+            <td><img src="https://img.shields.io/github/repo-size/ankitkec18/neon-button?style=for-the-badge&logo=githu&color=red&label=Repo%20Size%20"/></td>
+            <td><img src="https://img.shields.io/tokei/lines/github/ankitkec18/neon-button?style=for-the-badge&logo=githu&color=red&label=Lines%20of%20Code"/></td>
+            <td><img alt="Pull Requests"src="https://img.shields.io/github/languages/count/ankitkec18/neon-button?style=for-the-badge&logo=githu"/></td>
+            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/neon-button?label=HTML&style=for-the-badge&logo=githu"/></td>
+            <td><img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=githu" alt=ankitkec18 /></td>
+            <td><img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=githu" alt=ankitkec18 /></td>
        </tr>
    
    
@@ -153,7 +153,7 @@
 </p>
 
 <p align="center">
-<img src="https://badges.pufler.dev/commits/yearly/ankitkec18?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/commits/monthly/ankitkec18?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/commits/weekly/ankitkec18?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/repos/ankitkec18?style=for-the-badge&logo=github"/>
+<img src="https://badges.pufler.dev/commits/yearly/ankitkec18?style=for-the-badge&logo=github&color=red"/> <img src="https://badges.pufler.dev/commits/monthly/ankitkec18?style=for-the-badge&logo=github&color=red"/> <img src="https://badges.pufler.dev/commits/weekly/ankitkec18?style=for-the-badge&logo=github&color=red"/> <img src="https://badges.pufler.dev/repos/ankitkec18?style=for-the-badge&logo=github&color=red"/>
 </p>
 
 <p align="center">
@@ -175,8 +175,9 @@
      
 <p align="center">
      
-<img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github"/>
-<img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github"/>
+<img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color="/>
+<img src="https://img.shields.io/badge/Code%20Style-Prettier-green.svg?style=for-the-badge&logo=github"/>
+<img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color="/>
    
 </p>
 
