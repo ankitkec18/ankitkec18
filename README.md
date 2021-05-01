@@ -1,7 +1,10 @@
-![Visits Badge](https://badges.pufler.dev/visits/ankitkec18/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/all/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/yearly/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/monthly/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/weekly/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/repos/ankitkec18?style=for-the-badge&logo=github)<img src="https://img.shields.io/github/stars/ankitkec18?style=for-the-badge&logo=github"/>
+<span>
+<pre>
 
+<img src="https://badges.pufler.dev/visits/ankitkec18/ankitkec18?style=for-the-badge&logo=github"/>                                                 <img src="https://img.shields.io/badge/Stay-Safe-red?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTEwIDUxMCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTAgNTEwIiB3aWR0aD0iNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjxnPjxwYXRoIGQ9Im0xNzQuNjEgMzAwYy0yMC41OCAwLTQwLjU2IDYuOTUtNTYuNjkgMTkuNzJsLTExMC4wOSA4NS43OTd2MTA0LjQ4M2g1My41MjlsNzYuNDcxLTY1aDEyNi44MnYtMTQ1eiIgZmlsbD0iI2ZmZGRjZSIvPjwvZz48cGF0aCBkPSJtNTAyLjE3IDI4NC43MmMwIDguOTUtMy42IDE3Ljg5LTEwLjc4IDI0LjQ2bC0xNDguNTYgMTM1LjgyaC03OC4xOHYtODVoNjguMThsMTE0LjM0LTEwMC4yMWMxMi44Mi0xMS4yMyAzMi4wNi0xMC45MiA0NC41LjczIDcgNi41NSAxMC41IDE1LjM4IDEwLjUgMjQuMnoiIGZpbGw9IiNmZmNjYmQiLz48cGF0aCBkPSJtMzMyLjgzIDM0OS42M3YxMC4zN2gtNjguMTh2LTYwaDE4LjU1YzI3LjQxIDAgNDkuNjMgMjIuMjIgNDkuNjMgNDkuNjN6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTM5OS44IDc3LjN2OC4wMWMwIDIwLjY1LTguMDQgNDAuMDctMjIuNjQgNTQuNjdsLTExMi41MSAxMTIuNTF2LTIyNi42NmwzLjE4LTMuMTljMTQuNi0xNC42IDM0LjAyLTIyLjY0IDU0LjY3LTIyLjY0IDQyLjYyIDAgNzcuMyAzNC42OCA3Ny4zIDc3LjN6IiBmaWxsPSIjZDAwMDUwIi8+PHBhdGggZD0ibTI2NC42NSAyNS44M3YyMjYuNjZsLTExMi41MS0xMTIuNTFjLTE0LjYtMTQuNi0yMi42NC0zNC4wMi0yMi42NC01NC42N3YtOC4wMWMwLTQyLjYyIDM0LjY4LTc3LjMgNzcuMy03Ny4zIDIwLjY1IDAgNDAuMDYgOC4wNCA1NC42NiAyMi42NHoiIGZpbGw9IiNmZjRhNGEiLz48cGF0aCBkPSJtMjEyLjgzIDM2MC4xMnYzMGg1MS44MnYtMzB6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTI2NC42NSAzNjAuMTJ2MzBoMzYuMTRsMzIuMDQtMzB6IiBmaWxsPSIjZmZiZGE5Ii8+PC9nPjwvc3ZnPg=="/> <img src="https://img.shields.io/github/stars/ankitkec18?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/commits/all/ankitkec18?style=for-the-badge&logo=github"/>
 
-
+</pre>
+</span>
 <p align="center">
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="500px">
 </p>
@@ -142,10 +145,13 @@
 </p>
 
 ### <h2 align="center"><img src="https://icons.iconarchive.com/icons/kyo-tux/phuzion/24/Misc-Stats-icon.png"> Github Stats<h2/>   
-      
+     
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=ankitkec18&theme=rogue" alt="ankitkec18" />
 </p>
+
+![Commits Badge](https://badges.pufler.dev/commits/yearly/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/monthly/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/weekly/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/repos/ankitkec18?style=for-the-badge&logo=github)![](https://img.shields.io/tokei/lines/github/ankitkec18/ankitkec18?style=for-the-badge&color=red&label=Total%20Lines%20of%20Code)</br>
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ankitkec18&show_icons=true&theme=dracula" alt="ankitkec18" />
@@ -165,19 +171,17 @@
 </p>
      
 <p align="center">
-
- <img src="https://img.shields.io/github/forks/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/>![Updated Badge](https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github)![Created Badge](https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github)![Years Badge](https://badges.pufler.dev/years/ankitkec18?style=for-the-badge&logo=github)<img src="https://img.shields.io/github/issues/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/><img src="https://img.shields.io/github/issues-pr/ankitkec18/clock-ui-design?style=for-the-badge&logo=github"/><img src="https://img.shields.io/github/languages/count/ankitkec18/Nonstop_coding?style=for-the-badge&logo=github"/>
-   
-   
-   
-
-</p>
      
+<img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github"/><img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github"/>
+   
+</p>
+
+
 
   
    <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
    
    
-  
+
   
 
