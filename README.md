@@ -46,7 +46,6 @@
 ![Contributors Display](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Contributors Display](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Contributors Display](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Contributors Display](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Contributors Display](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
@@ -137,11 +136,14 @@
 </table>
 
 
-
 <p align="center">
 <a href="https://github.com/ankitkec18">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ankitkec18&layout=compact&langs_count=8&theme=dracula"/>
 </a>
+</p>
+<p align="center">
+     
+<img src="https://img.shields.io/tokei/lines/github/ankitkec18/ankitkec18?style=for-the-badge&color=red&label=Total%20Lines%20of%20Code"/>
 </p>
 
 ### <h2 align="center"><img src="https://icons.iconarchive.com/icons/kyo-tux/phuzion/24/Misc-Stats-icon.png"> Github Stats<h2/>   
@@ -150,8 +152,9 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=ankitkec18&theme=rogue" alt="ankitkec18" />
 </p>
 
-![Commits Badge](https://badges.pufler.dev/commits/yearly/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/monthly/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/commits/weekly/ankitkec18?style=for-the-badge&logo=github)![Commits Badge](https://badges.pufler.dev/repos/ankitkec18?style=for-the-badge&logo=github)![](https://img.shields.io/tokei/lines/github/ankitkec18/ankitkec18?style=for-the-badge&color=red&label=Total%20Lines%20of%20Code)</br>
-
+<p align="center">
+<img src="https://badges.pufler.dev/commits/yearly/ankitkec18?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/commits/monthly/ankitkec18?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/commits/weekly/ankitkec18?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/repos/ankitkec18?style=for-the-badge&logo=github"/>
+</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ankitkec18&show_icons=true&theme=dracula" alt="ankitkec18" />
@@ -172,7 +175,8 @@
      
 <p align="center">
      
-<img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github"/><img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github"/>
+<img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github"/>
+<img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github"/>
    
 </p>
 
