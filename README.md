@@ -15,7 +15,7 @@
 <h4>   
     
  📗 I'm a 2<sup>nd</sup> Year CSE Student, **Programmer**, **Designer**, and **Developer**.<br>
- ⏩ Currently Pursuing **B.Tech From **AKU** Patna,Bihar.**<br>
+ 👨‍🎓 Currently Pursuing **B.Tech From **AKU** Patna,Bihar.**<br>
  💻 I’m Currently **Working on:** <h4><img src="https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=green">  <img src="https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red"> <img src="https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva&logoColor=informational"><h4/> <br>
 <h4/>
 
@@ -23,7 +23,7 @@
  👨‍💻 All of my projects are available at [ankitkec18/github.io](ankitkec18/github.io)<br>
  📫 How to reach me **ankitkumarraj596@gmail.com**
 
-<h2 align="center"> 💻 Connect with Me 💻:</h2>
+<h2 align="center"> 🤝 Connect with Me 🤝:</h2>
 <p align="right"> 
  
  [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=Instagram&logoColor=white&color=red)](https://www.instagram.com/_insta_ankit/)
@@ -49,16 +49,16 @@
 ![Contributors Display](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-### <h2 align="center">🔓  Top Projects  🔓<h2/> 
+### <h2 align="center">🖌  Top Projects  🖌<h2/> 
 
 <table align="center">
     <thead align="center">
         <tr border: none;>
             <td><b>🖥️ Projects</b></td>
             <td><b>🌟 Stars</b></td>
-            <td><b>🍴 Repo <br>Size</b></td>
-            <td><b>🐛<br> Lines of Code</b></td>
-            <td><b>🔔Total<br> Language</b></td>
+            <td><b>💽 Repo <br>Size</b></td>
+            <td><b>📝<br> Lines of Code</b></td>
+            <td><b>📊Total<br> Language</b></td>
             <td><b>👨‍💻 Language</b></td>
             <td><b>⏱<br> Updated</b></td>
             <td><b>⏰ <br>Created</b></td>
