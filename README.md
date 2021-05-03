@@ -143,7 +143,7 @@
 </p>
 <p align="center">
      
-<img src="https://img.shields.io/tokei/lines/github/ankitkec18/ankitkec18?style=for-the-badge&color=red&label=Total%20Lines%20of%20Code"/>
+<img src="https://img.shields.io/tokei/lines/github/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=red&label=Total%20Lines%20of%20Code"/>
 </p>
 
 ### <h2 align="center"><img src="https://icons.iconarchive.com/icons/kyo-tux/phuzion/24/Misc-Stats-icon.png"> Github Stats<h2/>   
