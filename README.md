@@ -153,7 +153,7 @@
 </p>
 
 <p align="center">
-<img src="https://badges.pufler.dev/commits/yearly/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/> <img src="https://badges.pufler.dev/commits/monthly/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/> <img src="https://badges.pufler.dev/commits/weekly/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/> <img src="https://badges.pufler.dev/repos/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/>
+<img src="https://badges.pufler.dev/repos/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/> <img src="https://badges.pufler.dev/commits/yearly/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/> <img src="https://badges.pufler.dev/commits/monthly/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/> <img src="https://badges.pufler.dev/commits/weekly/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/>
 </p>
 
 <p align="center">
@@ -167,17 +167,18 @@
   </a>
 
  ### <h2 align="center">🏆 Github Trophies 🏆<h2/>
-<p align="center">
+
+   <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=ankitkec18&theme=gruvbox"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ankitkec18&row=1&column=6&margin-w=8&margin-h=8&theme=gruvbox"/>
   </a>
 </p>
+    
      
 <p align="center">
      
-<img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=brightgreen"/>
-<img src="https://img.shields.io/badge/Code%20Style-Prettier-brightgreen.svg?style=for-the-badge&logo=github"/>
-<img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=brightgreen"/>
+<img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=brightgreen"/> <b><a href="https://"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-red.svg?logo=docusign&logoColor=yellow&style=for-the-badge&color=brightgreen"/></a></b> <img src="https://img.shields.io/badge/Code%20Style-Prettier-brightgreen.svg?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=brightgreen"/>
+
    
 </p>
 
