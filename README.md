@@ -177,7 +177,7 @@
      
 <p align="center">
  <pre>    
- <img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=brightgreen"/> <b><a href="https://"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-red.svg?logo=docusign&logoColor=white&style=for-the-badge&color=brightgreen"/></a></b> <img src="https://img.shields.io/badge/Code%20Style-Prettier-brightgreen.svg?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=brightgreen"/>
+<img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=brightgreen"/> <b><a href="https://"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-red.svg?logo=docusign&logoColor=white&style=for-the-badge&color=brightgreen"/></a></b> <img src="https://img.shields.io/badge/Code%20Style-Prettier-brightgreen.svg?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=brightgreen"/>
 </pre>
    
 </p>
