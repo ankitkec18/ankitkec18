@@ -1,14 +1,15 @@
 <span>
 <pre>
-
-<img src="https://badges.pufler.dev/visits/ankitkec18/ankitkec18?style=for-the-badge&logo=github&label=PROFILE+VIEWS"/>                                 <img src="https://img.shields.io/badge/Stay-Safe-red?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTEwIDUxMCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTAgNTEwIiB3aWR0aD0iNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjxnPjxwYXRoIGQ9Im0xNzQuNjEgMzAwYy0yMC41OCAwLTQwLjU2IDYuOTUtNTYuNjkgMTkuNzJsLTExMC4wOSA4NS43OTd2MTA0LjQ4M2g1My41MjlsNzYuNDcxLTY1aDEyNi44MnYtMTQ1eiIgZmlsbD0iI2ZmZGRjZSIvPjwvZz48cGF0aCBkPSJtNTAyLjE3IDI4NC43MmMwIDguOTUtMy42IDE3Ljg5LTEwLjc4IDI0LjQ2bC0xNDguNTYgMTM1LjgyaC03OC4xOHYtODVoNjguMThsMTE0LjM0LTEwMC4yMWMxMi44Mi0xMS4yMyAzMi4wNi0xMC45MiA0NC41LjczIDcgNi41NSAxMC41IDE1LjM4IDEwLjUgMjQuMnoiIGZpbGw9IiNmZmNjYmQiLz48cGF0aCBkPSJtMzMyLjgzIDM0OS42M3YxMC4zN2gtNjguMTh2LTYwaDE4LjU1YzI3LjQxIDAgNDkuNjMgMjIuMjIgNDkuNjMgNDkuNjN6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTM5OS44IDc3LjN2OC4wMWMwIDIwLjY1LTguMDQgNDAuMDctMjIuNjQgNTQuNjdsLTExMi41MSAxMTIuNTF2LTIyNi42NmwzLjE4LTMuMTljMTQuNi0xNC42IDM0LjAyLTIyLjY0IDU0LjY3LTIyLjY0IDQyLjYyIDAgNzcuMyAzNC42OCA3Ny4zIDc3LjN6IiBmaWxsPSIjZDAwMDUwIi8+PHBhdGggZD0ibTI2NC42NSAyNS44M3YyMjYuNjZsLTExMi41MS0xMTIuNTFjLTE0LjYtMTQuNi0yMi42NC0zNC4wMi0yMi42NC01NC42N3YtOC4wMWMwLTQyLjYyIDM0LjY4LTc3LjMgNzcuMy03Ny4zIDIwLjY1IDAgNDAuMDYgOC4wNCA1NC42NiAyMi42NHoiIGZpbGw9IiNmZjRhNGEiLz48cGF0aCBkPSJtMjEyLjgzIDM2MC4xMnYzMGg1MS44MnYtMzB6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTI2NC42NSAzNjAuMTJ2MzBoMzYuMTRsMzIuMDQtMzB6IiBmaWxsPSIjZmZiZGE5Ii8+PC9nPjwvc3ZnPg=="/> <img src="https://img.shields.io/github/stars/ankitkec18?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/commits/all/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/>
+<!--<img src="https://badges.pufler.dev/visits/ankitkec18/ankitkec18?style=for-the-badge&logo=github&label=PROFILE+VIEWS"/> --> 
+<img src="https://img.shields.io/badge/Stay-Safe-red?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTEwIDUxMCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTAgNTEwIiB3aWR0aD0iNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjxnPjxwYXRoIGQ9Im0xNzQuNjEgMzAwYy0yMC41OCAwLTQwLjU2IDYuOTUtNTYuNjkgMTkuNzJsLTExMC4wOSA4NS43OTd2MTA0LjQ4M2g1My41MjlsNzYuNDcxLTY1aDEyNi44MnYtMTQ1eiIgZmlsbD0iI2ZmZGRjZSIvPjwvZz48cGF0aCBkPSJtNTAyLjE3IDI4NC43MmMwIDguOTUtMy42IDE3Ljg5LTEwLjc4IDI0LjQ2bC0xNDguNTYgMTM1LjgyaC03OC4xOHYtODVoNjguMThsMTE0LjM0LTEwMC4yMWMxMi44Mi0xMS4yMyAzMi4wNi0xMC45MiA0NC41LjczIDcgNi41NSAxMC41IDE1LjM4IDEwLjUgMjQuMnoiIGZpbGw9IiNmZmNjYmQiLz48cGF0aCBkPSJtMzMyLjgzIDM0OS42M3YxMC4zN2gtNjguMTh2LTYwaDE4LjU1YzI3LjQxIDAgNDkuNjMgMjIuMjIgNDkuNjMgNDkuNjN6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTM5OS44IDc3LjN2OC4wMWMwIDIwLjY1LTguMDQgNDAuMDctMjIuNjQgNTQuNjdsLTExMi41MSAxMTIuNTF2LTIyNi42NmwzLjE4LTMuMTljMTQuNi0xNC42IDM0LjAyLTIyLjY0IDU0LjY3LTIyLjY0IDQyLjYyIDAgNzcuMyAzNC42OCA3Ny4zIDc3LjN6IiBmaWxsPSIjZDAwMDUwIi8+PHBhdGggZD0ibTI2NC42NSAyNS44M3YyMjYuNjZsLTExMi41MS0xMTIuNTFjLTE0LjYtMTQuNi0yMi42NC0zNC4wMi0yMi42NC01NC42N3YtOC4wMWMwLTQyLjYyIDM0LjY4LTc3LjMgNzcuMy03Ny4zIDIwLjY1IDAgNDAuMDYgOC4wNCA1NC42NiAyMi42NHoiIGZpbGw9IiNmZjRhNGEiLz48cGF0aCBkPSJtMjEyLjgzIDM2MC4xMnYzMGg1MS44MnYtMzB6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTI2NC42NSAzNjAuMTJ2MzBoMzYuMTRsMzIuMDQtMzB6IiBmaWxsPSIjZmZiZGE5Ii8+PC9nPjwvc3ZnPg=="/>                                         <img src="https://badges.pufler.dev/repos/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/> <img src="https://img.shields.io/github/stars/ankitkec18?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/commits/all/ankitkec18?style=for-the-badge&logo=github&color=lightgreen"/>
 </pre>
 </span>
+
 <p align="center">
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="500px">
-</p>
-     
-<h1 align="center">Hi 👋, I'm ANKIT</h1>
+</p> 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&label=PROFILE+VIEWS&color=red"/></p>
+ <h1 align="center">Hi 👋, I'm ANKIT</h1>
  <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Montserratbold&color=lightgreen&lines=I'm+WEB+DEVELOPER+from+India.;I'm+a+COMPETATIVE+PROGRAMMER+from+India.;I'm+a+ANDROID+DEVELOPER+from+India."/></h3>
 
 
@@ -16,7 +17,7 @@
     
  📗 I'm a 2<sup>nd</sup> Year CSE Student, **Programmer**, **Designer**, and **Developer**.<br>
  👨‍🎓 Currently Pursuing **B.Tech From **AKU** Patna,Bihar.**<br>
- 💻 I’m Currently **Working on:** <h4><img src="https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=green">  <img src="https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red"> <img src="https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva&logoColor=informational"></h4> <br>
+ 💻 I’m Currently **Working on:** <h4><img src="https://img.shields.io/badge/JAVA-PROGRAMMING-yellow.svg?label=JAVA&style=social&logo=java&logoColor=red">  <img src="https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red"> <img src="https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva&logoColor=informational"></h4> <br>
 </h4>
 
  🌱 I’m currently learning **Flask Framework** <br>
