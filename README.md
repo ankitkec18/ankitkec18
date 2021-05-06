@@ -9,7 +9,7 @@
 </p>
      
 <h1 align="center">Hi 👋, I'm ANKIT</h1>
- <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Montserratbold&color=FF4500&lines=I'm+WEB+DEVELOPER+from+India...;I'm+a+COMPETATIVE+PROGRAMMER+from+India...;I'm+a+ANDROID+DEVELOPER+from+India..."/></h3>
+ <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Montserratbold&color=lightgreen&lines=I'm+WEB+DEVELOPER+from+India.;I'm+a+COMPETATIVE+PROGRAMMER+from+India.;I'm+a+ANDROID+DEVELOPER+from+India."/></h3>
 
 
 <h4>   
@@ -49,8 +49,9 @@
 ![Contributors Display](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-### <h2 align="center">🖌  Top Projects  🖌<h2/> 
 
+<details align="center"><summary><h2> 🖌Top Projects🖌<h2></summary> 
+<p align="center">
 <table align="center">
     <thead align="center">
         <tr border: none;>
@@ -65,16 +66,6 @@
         </tr>
      </thead>
     <tbody>
-        <tr>
-            <td><a href="https://github.com/ankitkec18/Nonstop_coding"</a><b>Nonstop Coding </b></td>
-            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/Nonstop_coding?style=for-the-badge&logo="/></td>
-            <td><img src="https://img.shields.io/github/repo-size/ankitkec18/Nonstop_coding?style=for-the-badge&logo=&color=red&label=Repo%20Size%20"/></td>
-            <td><img src="https://img.shields.io/tokei/lines/github/ankitkec18/Nonstop_coding?style=for-the-badge&logo=&color=red&label=Lines%20of%20Code"/></td>
-            <td><img alt="Pull Requests"src="https://img.shields.io/github/languages/count/ankitkec18/Nonstop_coding?style=for-the-badge&logo="/></td>
-            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/Nonstop_coding?style=for-the-badge&logo="/></td>
-            <td><img src="https://badges.pufler.dev/updated/ankitkec18/Nonstop_coding?style=for-the-badge&logo=" alt=ankitkec18 /></td>
-            <td><img src="https://badges.pufler.dev/created/ankitkec18/Nonstop_coding?style=for-the-badge&logo=" alt=ankitkec18 /></td>
-     </td>
         <tr>
             <td><a href="https://github.com/ankitkec18/Guess-the-Number"</a><b>Guess the Number</b></td>
             <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/Guess-the-Number?style=for-the-badge&logo="/></td>
@@ -125,15 +116,10 @@
             <td><img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=githu" alt=ankitkec18 /></td>
             <td><img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=githu" alt=ankitkec18 /></td>
        </tr>
-   
-   
-   
-   
-   
-   
    </tbody>        
-
 </table>
+</p>
+</details>
 
 
 <p align="center">
@@ -166,17 +152,18 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkec18&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
 
- ### <h2 align="center">🏆 Github Trophies 🏆<h2/>
-
-   <p align="center">
+  <details align="center">
+    <summary> <h2>🏆Github Trophies🏆<h2> </summary>
+    <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=ankitkec18&row=1&column=6&margin-w=8&margin-h=8&theme=gruvbox"/>
   </a>
 </p>
+</details>
     
      
 <p align="center">   
- <img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=brightgreen"/> <b><a href="https://"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-red.svg?logo=docusign&logoColor=white&style=for-the-badge&color=brightgreen"/></a></b> <img src="https://img.shields.io/badge/Code%20Style-Prettier-brightgreen.svg?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=brightgreen"/>   
+ <img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=skyblue"/> <b><a href="https://"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-red.svg?logo=docusign&logoColor=white&style=for-the-badge&color=skyblue"/></a></b> <img src="https://img.shields.io/badge/Code%20Style-Prettier-skyblue.svg?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=skyblue"/>   
 </p>
 
 
