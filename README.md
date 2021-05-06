@@ -166,13 +166,13 @@
     
      
 <p align="center">   
- <img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=skyblue"/> <b><a href="https://"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-red.svg?logo=docusign&logoColor=white&style=for-the-badge&color=skyblue"/></a></b> <img src="https://img.shields.io/badge/Code%20Style-Prettier-skyblue.svg?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=skyblue"/>   
+ <img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=blueviolet"/> <b><a href="https://"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-red.svg?logo=docusign&logoColor=white&style=for-the-badge&color=blueviolet"/></a></b> <img src="https://img.shields.io/badge/Code%20Style-Prettier-blueviolet.svg?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=blueviolet"/>   
 </p>
 
 
 
   
-   <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+   <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/ankitkec18/ankitkec1/91f15282a11eb3cde6f37459688c16a69ee06dcc/marquee.svg"/>
    
    
 
