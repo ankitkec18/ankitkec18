@@ -133,11 +133,13 @@
 <img src="https://img.shields.io/tokei/lines/github/ankitkec18/100_days_of_codes?style=for-the-badge&logo=github&color=red&label=Total%20Lines%20of%20Code"/>
 </p>
 
-### <h2 align="center"><img src="https://icons.iconarchive.com/icons/kyo-tux/phuzion/24/Misc-Stats-icon.png"> Github Stats<h2/>   
-     
+### 
+ <details align="center">
+<summary><h2 align="center"><img src="https://icons.iconarchive.com/icons/kyo-tux/phuzion/24/Misc-Stats-icon.png"> Github Stats<h2/> </summary>    
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=ankitkec18&theme=rogue" alt="ankitkec18" />
 </p>
+</details>
 
 <p align="center">
 <img src="https://badges.pufler.dev/repos/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/> <img src="https://badges.pufler.dev/commits/yearly/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/> <img src="https://badges.pufler.dev/commits/monthly/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/> <img src="https://badges.pufler.dev/commits/weekly/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/>
