@@ -137,13 +137,10 @@
  <details align="center">
 <summary><h2 align="center"><img src="https://icons.iconarchive.com/icons/kyo-tux/phuzion/24/Misc-Stats-icon.png"> Github Stats<h2/> </summary>    
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=ankitkec18&theme=rogue" alt="ankitkec18" />
+<img src="https://activity-graph.herokuapp.com/graph?username=ankitkec18&theme=rogue" alt="ankitkec18"/><br><br>
+<img src="https://badges.pufler.dev/years/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/> <img src="https://badges.pufler.dev/commits/yearly/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/> <img src="https://badges.pufler.dev/commits/monthly/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/> <img src="https://badges.pufler.dev/commits/weekly/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/>
 </p>
 </details>
-
-<p align="center">
-<img src="https://badges.pufler.dev/repos/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/> <img src="https://badges.pufler.dev/commits/yearly/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/> <img src="https://badges.pufler.dev/commits/monthly/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/> <img src="https://badges.pufler.dev/commits/weekly/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ankitkec18&show_icons=true&theme=dracula" alt="ankitkec18" />
