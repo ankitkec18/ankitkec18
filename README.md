@@ -128,10 +128,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ankitkec18&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
-<p align="center">
-     
-<img src="https://img.shields.io/tokei/lines/github/ankitkec18/100_days_of_codes?style=for-the-badge&logo=github&color=red&label=Total%20Lines%20of%20Code"/>
-</p>
+
 
 ### 
  <details align="center">
