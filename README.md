@@ -21,7 +21,7 @@
 </h4>
 
  🌱 I’m currently learning **Flask Framework** <br>
- � New Project comming Soon -FInal Javascript
+ � New Project comming Soon -FInal Javascript<br>
  👨‍💻 New Project [https://corona-virus-19-tracker.herokuapp.com/](https://corona-virus-19-tracker.herokuapp.com/)<br>
  📫 How to reach me **ankitkumarraj596@gmail.com**
 
