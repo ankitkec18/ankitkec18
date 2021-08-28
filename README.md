@@ -1,14 +1,14 @@
 <span>
 <pre>
 <!--<img src="https://badges.pufler.dev/visits/ankitkec18/ankitkec18?style=for-the-badge&logo=github&label=PROFILE+VIEWS"/> --> 
-<img src="https://img.shields.io/badge/Stay-Safe-red?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTEwIDUxMCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTAgNTEwIiB3aWR0aD0iNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjxnPjxwYXRoIGQ9Im0xNzQuNjEgMzAwYy0yMC41OCAwLTQwLjU2IDYuOTUtNTYuNjkgMTkuNzJsLTExMC4wOSA4NS43OTd2MTA0LjQ4M2g1My41MjlsNzYuNDcxLTY1aDEyNi44MnYtMTQ1eiIgZmlsbD0iI2ZmZGRjZSIvPjwvZz48cGF0aCBkPSJtNTAyLjE3IDI4NC43MmMwIDguOTUtMy42IDE3Ljg5LTEwLjc4IDI0LjQ2bC0xNDguNTYgMTM1LjgyaC03OC4xOHYtODVoNjguMThsMTE0LjM0LTEwMC4yMWMxMi44Mi0xMS4yMyAzMi4wNi0xMC45MiA0NC41LjczIDcgNi41NSAxMC41IDE1LjM4IDEwLjUgMjQuMnoiIGZpbGw9IiNmZmNjYmQiLz48cGF0aCBkPSJtMzMyLjgzIDM0OS42M3YxMC4zN2gtNjguMTh2LTYwaDE4LjU1YzI3LjQxIDAgNDkuNjMgMjIuMjIgNDkuNjMgNDkuNjN6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTM5OS44IDc3LjN2OC4wMWMwIDIwLjY1LTguMDQgNDAuMDctMjIuNjQgNTQuNjdsLTExMi41MSAxMTIuNTF2LTIyNi42NmwzLjE4LTMuMTljMTQuNi0xNC42IDM0LjAyLTIyLjY0IDU0LjY3LTIyLjY0IDQyLjYyIDAgNzcuMyAzNC42OCA3Ny4zIDc3LjN6IiBmaWxsPSIjZDAwMDUwIi8+PHBhdGggZD0ibTI2NC42NSAyNS44M3YyMjYuNjZsLTExMi41MS0xMTIuNTFjLTE0LjYtMTQuNi0yMi42NC0zNC4wMi0yMi42NC01NC42N3YtOC4wMWMwLTQyLjYyIDM0LjY4LTc3LjMgNzcuMy03Ny4zIDIwLjY1IDAgNDAuMDYgOC4wNCA1NC42NiAyMi42NHoiIGZpbGw9IiNmZjRhNGEiLz48cGF0aCBkPSJtMjEyLjgzIDM2MC4xMnYzMGg1MS44MnYtMzB6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTI2NC42NSAzNjAuMTJ2MzBoMzYuMTRsMzIuMDQtMzB6IiBmaWxsPSIjZmZiZGE5Ii8+PC9nPjwvc3ZnPg=="/>                                         <img src="https://badges.pufler.dev/repos/ankitkec18?style=for-the-badge&logo=github&color=brightgreen"/> <img src="https://img.shields.io/github/stars/ankitkec18?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/commits/all/ankitkec18?style=for-the-badge&logo=github&color=blueviolet"/>
+<img src="https://img.shields.io/badge/Stay-Safe-6082b6?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTEwIDUxMCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTAgNTEwIiB3aWR0aD0iNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjxnPjxwYXRoIGQ9Im0xNzQuNjEgMzAwYy0yMC41OCAwLTQwLjU2IDYuOTUtNTYuNjkgMTkuNzJsLTExMC4wOSA4NS43OTd2MTA0LjQ4M2g1My41MjlsNzYuNDcxLTY1aDEyNi44MnYtMTQ1eiIgZmlsbD0iI2ZmZGRjZSIvPjwvZz48cGF0aCBkPSJtNTAyLjE3IDI4NC43MmMwIDguOTUtMy42IDE3Ljg5LTEwLjc4IDI0LjQ2bC0xNDguNTYgMTM1LjgyaC03OC4xOHYtODVoNjguMThsMTE0LjM0LTEwMC4yMWMxMi44Mi0xMS4yMyAzMi4wNi0xMC45MiA0NC41LjczIDcgNi41NSAxMC41IDE1LjM4IDEwLjUgMjQuMnoiIGZpbGw9IiNmZmNjYmQiLz48cGF0aCBkPSJtMzMyLjgzIDM0OS42M3YxMC4zN2gtNjguMTh2LTYwaDE4LjU1YzI3LjQxIDAgNDkuNjMgMjIuMjIgNDkuNjMgNDkuNjN6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTM5OS44IDc3LjN2OC4wMWMwIDIwLjY1LTguMDQgNDAuMDctMjIuNjQgNTQuNjdsLTExMi41MSAxMTIuNTF2LTIyNi42NmwzLjE4LTMuMTljMTQuNi0xNC42IDM0LjAyLTIyLjY0IDU0LjY3LTIyLjY0IDQyLjYyIDAgNzcuMyAzNC42OCA3Ny4zIDc3LjN6IiBmaWxsPSIjZDAwMDUwIi8+PHBhdGggZD0ibTI2NC42NSAyNS44M3YyMjYuNjZsLTExMi41MS0xMTIuNTFjLTE0LjYtMTQuNi0yMi42NC0zNC4wMi0yMi42NC01NC42N3YtOC4wMWMwLTQyLjYyIDM0LjY4LTc3LjMgNzcuMy03Ny4zIDIwLjY1IDAgNDAuMDYgOC4wNCA1NC42NiAyMi42NHoiIGZpbGw9IiNmZjRhNGEiLz48cGF0aCBkPSJtMjEyLjgzIDM2MC4xMnYzMGg1MS44MnYtMzB6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTI2NC42NSAzNjAuMTJ2MzBoMzYuMTRsMzIuMDQtMzB6IiBmaWxsPSIjZmZiZGE5Ii8+PC9nPjwvc3ZnPg=="/>                                         <img src="https://badges.pufler.dev/repos/ankitkec18?style=for-the-badge&logo=github&color=6082b6"/> <img src="https://img.shields.io/github/stars/ankitkec18?style=for-the-badge&logo=github&color=6082b6"/> <img src="https://badges.pufler.dev/commits/all/ankitkec18?style=for-the-badge&logo=github&color=6082b6"/>
 </pre>
 </span>
 
 <p align="center">
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="500px">
 </p> 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ankitkec18&style=flat-square&label=PROFILE+VIEWS&color=blueviolet"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ankitkec18&style=flat-square&label=PROFILE+VIEWS&color=6082b6"/></p>
  <h1 align="center">Hi 👋, I'm ANKIT</h1>
  <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Montserratbold&color=lightgreen&lines=I'm+WEB+DEVELOPER+from+India.;I'm+a+COMPETATIVE+PROGRAMMER+from+India.;I'm+a+ANDROID+DEVELOPER+from+India."/></h3>
 
@@ -28,10 +28,10 @@
 <h2 align="center"> 🤝 Connect with Me 🤝:</h2>
 <p align="right"> 
  
- [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=Instagram&logoColor=white&color=red)](https://www.instagram.com/_insta_ankit/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=skyblue)](https://www.twitter.com/ankitkec/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ankitkec18/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=for-the-badge&logo=Facebook&logoColor=white&color=blue)](https://www.facebook.com/ankitkumarraj0/)
+ [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=Instagram&logoColor=white&color=6082b6)](https://www.instagram.com/_insta_ankit/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=6082b6)](https://www.twitter.com/ankitkec/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=6082b6)](https://www.linkedin.com/in/ankitkec18/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=for-the-badge&logo=Facebook&logoColor=white&color=6082b6)](https://www.facebook.com/ankitkumarraj0/)
 
 </p>
 
@@ -40,15 +40,15 @@
 
   
      
-![Contributors Display](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Contributors Display](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Contributors Display](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Contributors Display](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Contributors Display](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Contributors Display](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Contributors Display](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Contributors Display](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Contributors Display](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Contributors Display](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&color=6082b6&logo=html5&logoColor=white)
+![Contributors Display](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&color=6082b6&logo=css3&logoColor=white)
+![Contributors Display](https://img.shields.io/badge/Python-14354C?style=for-the-badge&color=6082b6&logo=python&logoColor=white)
+![Contributors Display](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&color=6082b6&logo=c%2B%2B&logoColor=white)
+![Contributors Display](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&color=6082b6&logo=java&logoColor=white)
+![Contributors Display](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&color=6082b6)
+![Contributors Display](https://img.shields.io/badge/React-20232A?style=for-the-badge&color=6082b6&logo=react&logoColor=61DAFB)
+![Contributors Display](https://img.shields.io/badge/Flask-000000?style=for-the-badge&color=6082b6&logo=flask&logoColor=white)
+![Contributors Display](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&color=6082b6&logo=mongodb&logoColor=white)
 
 
 
@@ -126,7 +126,7 @@
 
 <p align="center">
 <a href="https://github.com/ankitkec18">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ankitkec18&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ankitkec18&layout=compact&langs_count=8&theme=nord"/>
 </a>
 </p>
 
@@ -135,33 +135,33 @@
  <details align="center">
 <summary><h2 align="center"><img src="https://icons.iconarchive.com/icons/kyo-tux/phuzion/24/Misc-Stats-icon.png"> Github Stats<h2/> </summary>    
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=ankitkec18&theme=rogue" alt="ankitkec18"/><br><br>
-<img src="https://badges.pufler.dev/years/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/> <img src="https://badges.pufler.dev/commits/yearly/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/> <img src="https://badges.pufler.dev/commits/monthly/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/> <img src="https://badges.pufler.dev/commits/weekly/ankitkec18?style=for-the-badge&logo=github&color=ff69b4"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=ankitkec18&theme=nord" alt="ankitkec18"/><br><br>
+<img src="https://badges.pufler.dev/years/ankitkec18?style=for-the-badge&logo=github&color=6082b6"/> <img src="https://badges.pufler.dev/commits/yearly/ankitkec18?style=for-the-badge&logo=github&color=6082b6"/> <img src="https://badges.pufler.dev/commits/monthly/ankitkec18?style=for-the-badge&logo=github&color=6082b6"/> <img src="https://badges.pufler.dev/commits/weekly/ankitkec18?style=for-the-badge&logo=github&color=6082b6"/>
 </p>
 </details>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ankitkec18&show_icons=true&theme=dracula" alt="ankitkec18" />
+<img src="https://github-readme-stats.vercel.app/api?username=ankitkec18&show_icons=true&theme=nord" alt="ankitkec18" />
 </p>
 
 ### <h2 align="center">🔥 My Contribution Streak 🔥<h2/>
 <p align="center">
   <a href="https://github.com/ankitkec18/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkec18&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkec18&theme=nord&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
 
   <details align="center">
     <summary> <h2>🏆Github Trophies🏆<h2> </summary>
     <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=ankitkec18&row=1&column=6&margin-w=8&margin-h=8&theme=gruvbox"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ankitkec18&row=1&column=6&margin-w=8&margin-h=8&theme=nord"/>
   </a>
 </p>
 </details>
     
      
 <p align="center">   
- <img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=blueviolet"/> <b><a href="https://"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-red.svg?logo=docusign&logoColor=white&style=for-the-badge&color=blueviolet"/></a></b> <img src="https://img.shields.io/badge/Code%20Style-Prettier-blueviolet.svg?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=blueviolet"/>   
+ <img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=6082b6"/> <b><a href="https://"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-red.svg?logo=docusign&logoColor=white&style=for-the-badge&color=6082b6"/></a></b> <img src="https://img.shields.io/badge/Code%20Style-Prettier-6082b6.svg?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=6082b6"/>   
 </p>
 
 
