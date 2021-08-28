@@ -13,12 +13,9 @@
  <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Montserratbold&color=lightgreen&lines=I'm+WEB+DEVELOPER+from+India.;I'm+a+COMPETATIVE+PROGRAMMER+from+India.;I'm+a+ANDROID+DEVELOPER+from+India."/></h3>
 
 
-<h4>   
-    
+
  📗 I'm a 2<sup>nd</sup> Year CSE Student, **Programmer**, **Designer**, and **Developer**.<br>
- 👨‍🎓 Currently Pursuing **B.Tech From **AKU** Patna,Bihar.**<br>
- 💻 I’m Currently **Working on:** <h4><img src="https://img.shields.io/badge/JAVA-PROGRAMMING-yellow.svg?label=JAVA&style=social&logo=java&logoColor=red">  <img src="https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red"> <img src="https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva&logoColor=informational"></h4>
-</h4>
+ 👨‍🎓 Currently Pursuing **B.Tech From **AKU** Patna,Bihar.**
  🌱 I’m currently learning **Flask Framework** <br>
  � Next Project comming Soon -FInal Javascript<br>
  👨‍💻 New Project [https://corona-virus-19-tracker.herokuapp.com/](https://corona-virus-19-tracker.herokuapp.com/)<br>
