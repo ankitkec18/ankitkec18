@@ -143,7 +143,7 @@
 ### <h2 align="center">🔥 My Contribution Streak 🔥<h2/>
 <p align="center">
   <a href="https://github.com/ankitkec18/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkec18&theme=nord&hide_border=true&background=0D1117&stroke=0000"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkec18&theme=holi-theme&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
 
   <details align="center">
