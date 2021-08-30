@@ -17,8 +17,8 @@
  📗 I'm a 2<sup>nd</sup> Year CSE Student, **Programmer**, **Designer**, and **Developer**.<br>
  👨‍🎓 Currently Pursuing **B.Tech From **AKU** Patna,Bihar.**
  🌱 I’m currently learning **Flask Framework** <br>
- � Next Project comming Soon -FInal Javascript<br>
- 👨‍💻 New Project [https://corona-virus-19-tracker.herokuapp.com/](https://corona-virus-19-tracker.herokuapp.com/)<br>
+ � Next Project comming Soon -Chatting App using Node js<br>
+ 👨‍💻 New Project [https://ankitkec18.github.io/JS-Project/](https://ankitkec18.github.io/JS-Project/)<br>
  📫 How to reach me **ankitkumarraj596@gmail.com**
 
 <h2 align="center"> 🤝 Connect with Me 🤝:</h2>
