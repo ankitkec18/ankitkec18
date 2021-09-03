@@ -18,7 +18,7 @@
  👨‍🎓 Currently Pursuing **B.Tech From **AKU** Patna,Bihar.**
  🌱 I’m currently learning **Flask Framework** <br>
  � Next Project comming Soon -Chatting App using Node js<br>
- 👨‍💻 New Project [https://ankitkec18.github.io/Js-Project/](https://ankitkec18.github.io/Js-Project/)<br>
+ 👨‍💻 New Project [https://ankitkec18.github.io/Js-Projects/](https://ankitkec18.github.io/Js-Projects/)<br>
  📫 How to reach me **ankitkumarraj596@gmail.com**
 
 <h2 align="center"> 🤝 Connect with Me 🤝:</h2>
