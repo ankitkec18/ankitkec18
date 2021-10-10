@@ -14,7 +14,7 @@
 
 
 
- 📗 I'm a 2<sup>nd</sup> Year CSE Student, **Programmer**, **Designer**, and **Developer**.<br>
+ 📗 I'm a 3<sup>nd</sup> Year CSE Student, **Programmer**, **Designer**, and **Developer**.<br>
  👨‍🎓 Currently Pursuing **B.Tech From **AKU** Patna,Bihar.**
  🌱 I’m currently learning **Flask Framework** <br>
  � Next Project comming Soon -Chatting App using Node js<br>
