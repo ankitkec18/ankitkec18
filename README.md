@@ -132,19 +132,12 @@
 <summary><h2 align="center"><img src="https://icons.iconarchive.com/icons/kyo-tux/phuzion/24/Misc-Stats-icon.png"> Github Stats<h2/> </summary>    
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=ankitkec18&theme=nord" alt="ankitkec18"/><br><br>
-<img src="https://badges.pufler.dev/commits/all/ankitkec18?style=for-the-badge&logo=github&color=6082b6"/> <img src="https://badges.pufler.dev/commits/yearly/ankitkec18?style=for-the-badge&logo=github&color=6082b6"/> <img src="https://badges.pufler.dev/commits/monthly/ankitkec18?style=for-the-badge&logo=github&color=6082b6"/> <img src="https://badges.pufler.dev/commits/weekly/ankitkec18?style=for-the-badge&logo=github&color=6082b6"/>
+<img src="https://badges.pufler.dev/commits/all/ankitkec18?style=for-the-badge&logo=github&color=6082b6"/> <img src="https://badges.pufler.dev/commits/yearly/ankitkec18?style=for-the-badge&logo=github&color=6082b6"/> <img src="https://badges.pufler.dev/commits/monthly/ankitkec18?style=for-the-badge&logo=github&color=6082b6"/> <img src="https://badges.pufler.dev/commits/weekly/ankitkec18?style=for-the-badge&logo=github&color=6082b6"/><br>
 </p>
 </details>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ankitkec18&show_icons=true&theme=nord" alt="ankitkec18" />
-</p>
-
-### <h2 align="center">🔥 My Contribution Streak 🔥<h2/>
-<p align="center">
-  <a href="https://github.com/ankitkec18/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkec18&theme=holi-theme&hide_border=true&background=0D1117&stroke=0000"/>
-  </a>
+         
+| ![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankitkec18&show_icons=true&theme=tokyonight) | ![Ankit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitkec18&theme=tokyonight) |
+| --- | --- |
 
   <details align="center">
     <summary> <h2>🏆Github Trophies🏆<h2> </summary>
@@ -159,3 +152,11 @@
 <p align="center">   
  <img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=6082b6"/> <b><a href="https://"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-red.svg?logo=docusign&logoColor=white&style=for-the-badge&color=6082b6"/></a></b> <img src="https://img.shields.io/badge/Code%20Style-Prettier-6082b6.svg?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=6082b6"/>   
 </p>
+            
+
+
+
+
+
+
+
