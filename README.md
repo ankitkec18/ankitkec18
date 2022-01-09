@@ -65,14 +65,14 @@
      </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/ankitkec18/Guess-the-Number"</a><b>Guess the Number</b></td>
-            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/Guess-the-Number?style=for-the-badge&logo="/></td>
-            <td><img src="https://img.shields.io/github/repo-size/ankitkec18/Guess-the-Number?style=for-the-badge&logo=&color=red&label=Repo%20Size%20"/></td>
-            <td><img src="https://img.shields.io/tokei/lines/github/ankitkec18/Guess-the-Number?style=for-the-badge&logo=&color=red&label=Lines%20of%20Code"/></td>
-            <td><img alt="Pull Requests"src="https://img.shields.io/github/languages/count/ankitkec18/Guess-the-Number?style=for-the-badge&logo="/></td>
-            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/Guess-the-Number?style=for-the-badge&logo="/></td>
-             <td><img src="https://badges.pufler.dev/updated/ankitkec18/Guess-the-Number?style=for-the-badge&logo=" alt=ankitkec18 /></td>
-            <td><img src="https://badges.pufler.dev/created/ankitkec18/Guess-the-Number?style=for-the-badge&logo=" alt=ankitkec18 /></td>
+            <td><a href="https://github.com/ankitkec18/Fshare"</a><b>Fshare</b></td>
+            <td><img alt="Stars"src="https://img.shields.io/github/stars/ankitkec18/Fshare?style=for-the-badge&logo="/></td>
+            <td><img src="https://img.shields.io/github/repo-size/ankitkec18/Fshare?style=for-the-badge&logo=&color=red&label=Repo%20Size%20"/></td>
+            <td><img src="https://img.shields.io/tokei/lines/github/ankitkec18/Fshare?style=for-the-badge&logo=&color=red&label=Lines%20of%20Code"/></td>
+            <td><img alt="Pull Requests"src="https://img.shields.io/github/languages/count/ankitkec18/Fshare?style=for-the-badge&logo="/></td>
+            <td><img alt="Language"src="https://img.shields.io/github/languages/top/ankitkec18/Fshare?style=for-the-badge&logo="/></td>
+             <td><img src="https://badges.pufler.dev/updated/ankitkec18/Fshare?style=for-the-badge&logo=" alt=ankitkec18 /></td>
+            <td><img src="https://badges.pufler.dev/created/ankitkec18/Fshare?style=for-the-badge&logo=" alt=ankitkec18 /></td>
         </tr>
         <tr>
             <td><a href="https://github.com/ankitkec18/weather-app"</a><b>Weather app</b></td>
