@@ -15,13 +15,16 @@
 
 
  📗 I'm a 3<sup>rd</sup> Year CSE Student, **Programmer**, **Designer**, and **Developer**.<br>
- 👨‍🎓 Currently Pursuing **B.Tech From **AKU** Patna,Bihar.**
+ 👨‍🎓 Currently Pursuing **B.Tech From **AKU** Patna,Bihar.**<br>
  🌱 I’m currently learning **Java** <br>
- � Portfolio Website - [https://ankitkr14.netlify.app/](https://ankitkr14.netlify.app/)<br>
- 👨‍💻 New Project Fshare - [https://fileshare18.herokuapp.com/](https://fileshare18.herokuapp.com/)<br>
- 📫 How to reach me **ankitkumarraj596@gmail.com**
+ 👨‍💻 Plz Cheack : <a href="https://ankitkr14.netlify.app/">PortFolio</a><br>
+ 👨‍💻 New Project : <a href="https://fileshare18.herokuapp.com/">Fshare</a><br>
+ 📫 How to reach me **ankitkumarraj596@gmail.com** <br>
+ 👨‍💻 Struggling on <a href="https://www.leetcode.com/Silentcoder7/">LeetCode</a> 😍<br>
+ 👨‍💻 Practising on <a href="https://www.codeforces.com/profile/Silentcoder7/">Hackerrank</a> 🙃<br>
+ 👨‍💻 Sharing updates on <a href="https://www.linkedin.com/in/ankitkec18/">LinkedIn</a> 😇
 
-<h2 align="center"> 🤝 Connect with Me 🤝:</h2>
+<!--<h2 align="center"> 🤝 Connect with Me 🤝:</h2>
 <p align="right"> 
  
  [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=Instagram&logoColor=white&color=6082b6)](https://www.instagram.com/_insta_ankit/)
@@ -29,7 +32,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=6082b6)](https://www.linkedin.com/in/ankitkec18/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=for-the-badge&logo=Facebook&logoColor=white&color=6082b6)](https://www.facebook.com/ankitkumarraj0/)
 
-</p>
+</p> -->
 
 
 ### <h2 align="center">🛠️ Languages and Tools 🛠️<h2/>
@@ -48,7 +51,7 @@
 
 
 
-<details align="center"><summary><h2> 🖌Top Projects🖌<h2></summary> 
+<!--<details align="center"><summary><h2> 🖌Top Projects🖌<h2></summary> 
 <p align="center">
 <table align="center">
     <thead align="center">
@@ -117,7 +120,7 @@
    </tbody>        
 </table>
 </p>
-</details>
+</details>-->
 
 
 <p align="center">
