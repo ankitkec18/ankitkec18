@@ -21,7 +21,7 @@
  👨‍💻 New Project : <a href="https://fileshare18.herokuapp.com/">Fshare</a><br>
  📫 How to reach me **ankitkumarraj596@gmail.com** <br>
  👨‍💻 Struggling on <a href="https://www.leetcode.com/Silentcoder7/">LeetCode</a> 😍<br>
- 👨‍💻 Practising on <a href="https://www.codeforces.com/profile/Silentcoder7/">Hackerrank</a> 🙃<br>
+ 👨‍💻 Practising on <a href="https://www.Hackerrank.com/profile/Silentcoder7/">Hackerrank</a> 🙃<br>
  👨‍💻 Sharing updates on <a href="https://www.linkedin.com/in/ankitkec18/">LinkedIn</a> 😇
 
 <!--<h2 align="center"> 🤝 Connect with Me 🤝:</h2>
