@@ -19,7 +19,6 @@
  🌱 I’m currently learning **Java** <br>
  👨‍💻 Plz Cheack : <a href="https://ankitkr14.netlify.app/">PortFolio</a><br>
  👨‍💻 New Project : <a href="https://fileshare18.herokuapp.com/">Fshare</a><br>
- 📫 How to reach me **ankitkumarraj596@gmail.com** <br>
  👨‍💻 Struggling on <a href="https://www.leetcode.com/Silentcoder7/">LeetCode</a> 😍<br>
  👨‍💻 Practising on <a href="https://www.Hackerrank.com/profile/Silentcoder7/">Hackerrank</a> 🙃<br>
  👨‍💻 Sharing updates on <a href="https://www.linkedin.com/in/ankitkec18/">LinkedIn</a> 😇
