@@ -46,6 +46,7 @@
 ![Contributors Display](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&color=6082b6)
 ![Contributors Display](https://img.shields.io/badge/React-20232A?style=for-the-badge&color=6082b6&logo=react&logoColor=61DAFB)
 ![Contributors Display](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&color=6082b6&logo=mongodb&logoColor=white)
+![Contributors Display](https://img.shields.io/badge/Flask-000000?style=for-the-badge&color=6082b6&logo=flask&logoColor=white)
 
 
 
