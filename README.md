@@ -17,7 +17,7 @@
  📗 I'm a 3<sup>rd</sup> Year CSE Student, **Programmer**, **Designer**, and **Developer**.<br>
  👨‍🎓 Currently Pursuing **B.Tech From **AKU** Patna,Bihar.**<br>
  🌱 I’m currently learning **Java** <br>
- 👨‍💻 Plz Cheack : <a href="https://ankitkr14.netlify.app/">PortFolio</a><br>
+ 👨‍💻 Plz Cheack : <a href="https://ankitkr10.netlify.app/">PortFolio</a><br>
  👨‍💻 New Project : <a href="https://ankitkec18.github.io/js_projects/">Js Projects</a><br>
  👨‍💻 Struggling on <a href="https://www.leetcode.com/Silentcoder7/">LeetCode</a> 😍<br>
  👨‍💻 Practising on <a href="https://www.Hackerrank.com/profile/Silentcoder7/">Hackerrank</a> 🙃<br>
