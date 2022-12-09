@@ -138,7 +138,7 @@
 </p>
 </details>
          
-| ![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankitkec18&show_icons=true&theme=tokyonight) | ![Ankit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitkec18&theme=tokyonight) |
+| ![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankitkec18&count_private=true&show_icons=true&theme=tokyonight) | ![Ankit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitkec18&theme=tokyonight) |
 | --- | --- |
 
   <details align="center">
@@ -154,6 +154,9 @@
 <p align="center">   
  <img src="https://badges.pufler.dev/updated/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=6082b6"/> <b><a href="https://"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-red.svg?logo=docusign&logoColor=white&style=for-the-badge&color=6082b6"/></a></b> <img src="https://img.shields.io/badge/Code%20Style-Prettier-6082b6.svg?style=for-the-badge&logo=github"/> <img src="https://badges.pufler.dev/created/ankitkec18/ankitkec18?style=for-the-badge&logo=github&color=6082b6"/>   
 </p>
+            
+
+
             
 
 
