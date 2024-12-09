@@ -14,7 +14,7 @@
 
 
 
- 📗 I'm a 3<sup>rd</sup> Year CSE Student, **Programmer**, **Designer**, and **Developer**.<br>
+ 📗 I'm a CSE Student, **Programmer**, **Designer**, and **Developer**.<br>
  👨‍🎓 Currently Pursuing **B.Tech From **AKU** Patna,Bihar.**<br>
  🌱 I’m currently learning **Java** <br>
  👨‍💻 Plz Cheack : <a href="https://ankitkr10.netlify.app/">PortFolio</a><br>
